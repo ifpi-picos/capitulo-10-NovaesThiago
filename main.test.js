@@ -8,7 +8,7 @@ import {
   atualizarPropriedade,
   listarChaves,
   saudacaoPorHora,
-} from "./main.js";
+} from "./main";
 
 // Teste para a função maiorNumero
 describe("maiorNumero", () => {
